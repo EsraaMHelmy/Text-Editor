@@ -1,0 +1,38 @@
+.note-editor {
+  margin-bottom: 5rem !important;
+}
+
+.note-toolbar {
+    margin-left: 0px;
+}
+
+/*.bold {
+	font-weight: 800;
+	font-size: 18px;
+}*/
+
+.note-editable{
+	height: 150px !important;
+}
+
+.utterance {
+	    margin-top: 15px;
+    margin-left: 15px;
+}
+.new-state {
+	
+	    padding-left: 2px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+
+.selectedword{
+	background-color: yellow;
+}
+
+/*.note-editor ::selection {
+  background: yellow; 
+}
+.note-editor ::-moz-selection {
+  background: yellow; 
+}*/
