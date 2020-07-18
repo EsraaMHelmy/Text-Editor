@@ -1,0 +1,2 @@
+It's simple desine for Text Editor you can categorize any word by add the field name into the dropdown list, then write any word and select it to categorize it. 
+Also it can add into a table to count the index and the letters of this selected word.
